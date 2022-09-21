@@ -1,6 +1,5 @@
 
 ironsrc.com, [288699], Direct
-Remember to replace [288699]
 
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
